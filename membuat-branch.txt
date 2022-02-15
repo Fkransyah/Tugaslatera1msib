@@ -1,0 +1,9 @@
+latihan membuat branch
+langkah-langkah yang ditentukan
+- membuat project 
+- menambahkan branch 
+- setelah menambahkan branch langkah kemudia kita lakukan merge
+- setelah itu masuk pada bagian insight network untuk melihat tampilannya
+
+Setelah dilakukan membuat branch lalu saya akan menambahkan mengenai fitur 
+kemudian langkan selanjutnya kita akan menambah branch lagi yang dimana nantinya branch ke tiga akan kita merge ke develop
